@@ -1,0 +1,4 @@
+Header:
+Logo, Redes Sociales
+Navbar:
+Acerca, Galeria, Redes, 

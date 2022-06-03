@@ -1,0 +1,5 @@
+PASOS A SEGUIR:
+1.- Diseñar y crear la base de datos
+2.- Hacer el Backend de la aplicacion:
+	
+

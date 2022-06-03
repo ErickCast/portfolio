@@ -1,0 +1,16 @@
+APLICACION WEB DE MUSICA:
+1.-Diseñar y crear la base de datos
+2.-Crear la maquetacion del sitio:
+	index: formulario de login y registro
+	principal: barra de navegacion con los generos musicales, a la izquierda el perfil de usuario con imagen y enlaces, 
+	a la derecha las canciones del genero seleccionado
+	
+
+Tareas principales:
+Uso de JavaScript, JQuery, buen diseño, animaciones y eventos.
+	
+
+	
+
+
+
